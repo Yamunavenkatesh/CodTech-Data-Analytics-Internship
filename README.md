@@ -40,6 +40,7 @@ This project consists of four major tasks completed during the Data Analytics In
 
 Description: This bar chart shows sales across different countries. It helps compare    
 performance and identify which countries have higher or lower sales.
+
 ---
 
 ### 📌 Task 2: Model Evaluation
@@ -47,7 +48,8 @@ performance and identify which countries have higher or lower sales.
 
 Description: This output shows the performance of the regression model using Mean Squared 
 Error (MSE) and R² score. The MSE indicates the prediction error, while the R² score represents 
-how well the model explains the data. 
+how well the model explains the data.
+
 ---
 
 ### 📌 Task 2: Actual vs Predicted Prices
@@ -56,6 +58,7 @@ how well the model explains the data.
 Description: This scatter plot compares actual house prices with predicted values from the 
 model. The closer the points are to a straight line, the better the model’s predictions, indicating 
 good accuracy.
+
 ---
 
 ### 📌 Task 3: Sales Dashboard
