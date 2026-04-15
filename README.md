@@ -36,32 +36,31 @@ This project consists of four major tasks completed during the Data Analytics In
 ## 📊 ScreenShots
 
 ### 📌 Task 1: Sales Distribution
-![Sales Distribution](ScreenShots/Task1_Sales Distribution Across Different Countries.png)
+![Sales Distribution](ScreenShots/task1_sales_distribution.png)
 
 ---
 
 ### 📌 Task 2: Model Evaluation
-![Model Evaluation](ScreenShots/Task2_Model Evaluation Metrics (MSE and R² Score).png)
+![Model Evaluation](ScreenShots/task2_model_metrics.png)
 
 ---
 
 ### 📌 Task 2: Actual vs Predicted Prices
-![Prediction](ScreenShots/Task2_Actual vs Predicted House Prices.png)
-
+![Prediction](ScreenShots/task2_prediction.png)
 ---
 
 ### 📌 Task 3: Sales Dashboard
-![Dashboard](ScreenShots/Task3_Interactive Sales Dashboard.png)
+![Dashboard](ScreenShots/task3_dashboard.png)
 
 ---
 
 ### 📌 Task 4: Model Training & Accuracy
-![Accuracy](ScreenShots/Task4_Logistic Regression Model Training and Accuracy.png)
+![Accuracy](ScreenShots/task4_accuracy.png)
 
 ---
 
 ### 📌 Task 4: Sentiment Prediction
-![Sentiment](ScreenShots/Task4_Sentiment Prediction on Sample Reviews.png)
+![Sentiment](ScreenShots/task4_sentiment.png)
 
 ---
 
