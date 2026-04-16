@@ -78,6 +78,25 @@ for sentiment analysis. The model is trained on text data and achieves an accura
 approximately 91%, indicating good performance in classification.
 
 ---
+### 📌 Task 4: Sentiment Distribution Visualization 
+![Sentiment Distribution](ScreenShots/task4_sentiment_distribution.png)
+
+Description: This visualization represents the distribution of sentiment labels (positive and negative) in the 
+dataset. The bar chart shows that both sentiment classes are nearly balanced, which helps in 
+reducing bias during model training. A balanced dataset improves the performance and 
+reliability of the sentiment analysis model. 
+
+---
+
+### 📌 Task 4: Confusion Matrix  
+![Confusion Matrix](ScreenShots/task4_confusion_matrix.png)
+
+Description: This confusion matrix visualizes the performance of the sentiment analysis model by 
+comparing actual and predicted labels. It shows the number of correct predictions as well as 
+misclassifications, helping to evaluate how well the model distinguishes between positive and 
+negative sentiments. 
+
+---
 
 ### 📌 Task 4: Sentiment Prediction
 ![Sentiment](ScreenShots/task4_sentiment.png)
